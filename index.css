@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    color: black;
+    background-image: url(https://img.genial.ly/5e789516884967588ec80b4c/5c75735c-0db5-4467-98a8-aec703e60fc6.jpeg);
+    background-size: cover; 
+    background-color: blueviolet;
+    font-family: sans-serif;
+}
+
+#caixa1 {
+    margin-top: 100px;
+    width: 70%;
+    max-width: 450px;
+    margin-inline: auto;
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+p {
+    margin-top: 20px;
+}
+
+input,button {
+    display: block;
+    width: 100%;
+    padding: 18px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+input {
+    margin-top: 20px;
+}
+
+button {
+    margin-top: 10px;
+    border: none;
+    background-color: crimson;
+    color: black;
+    transition: filter 0.4s;
+}
+
+button:hover {
+    filter: brightness(1.2);
+    cursor: pointer;
+}
+
+#resposta {
+    margin-top: 20px;
+    transition: opacity 2s;
+}
+ 
+#resposta div {
+    font-size: 16px;
+    font-weight: normal;
+    opacity: 0.9;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,88 @@
+((Primeiro projeto)), feito com o auxílio da maratona explorer.
+ Nome:Angelo
+      Ange-U
+      
+Espero continuar programando e nunca desistir!
+
+# HTML
+- HyperText Markup Language
+
+- Hiper Texto?
+- Marcação
+  - tags
+  - atributos
+- Linguagem
+  - maneira de escrever
+
+# CSS
+
+- Apresentação visual para o cliente
+- Estilos para o HTML
+- Cascading Style Sheets
+  - Folha de Estilo em Cascata
+
+# Declaração
+- Seletor
+- Propriedade e Valor
+
+# Conceitos
+- Cascata
+- Especificidade
+- Box Model
+- Display block vs inline
+
+# JavaScript
+
+## **O que é?**
+
+- Linguagem de programação
+
+Interpretada e executada pelos navegadores
+
+- A inteligência da tríade
+
+HTML é a estrutura, CSS é beleza e JS é a inteligência
+
+- Não é JAVA
+
+Apesar do nome ser semelhante, são linguagens diferentes
+
+---
+
+## **Por que JS?**
+
+- Aplicativos
+
+Para WEB, Desktop (Electron) e Mobile (React Native)
+
+- Empresas famosas
+
+Instagram, Google, Netflix, TikTok …
+
+- Moderna e Viva
+
+Comunidade e linguagem que cresce cada vez mais
+
+---
+
+## **Sintaxe**
+
+É presente em toda linguagem e é importante para a comunicação
+
+```jsx
+const mensagem = "Bom te ver aqui! "
+
+alert(mensagem + (10 * 100) + " abraços")
+
+// Bom te ver aqui! 1000 abraços
+```
+
+---
+
+## **Executando JavaScript**
+
+- De maneira imediata
+
+→ No Browser a partir da ferramenta `DevTools` apertando o atalho `F12` no seu teclado
+
+→ Plataformas online (codepen.io, fronteditor.dev)
